@@ -1,0 +1,5 @@
+qdrant-client>=1.10
+fastembed>=0.3
+pdfplumber>=0.11
+# optionnel, pour la réponse rédigée dans chat.py :
+anthropic
